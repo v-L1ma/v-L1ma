@@ -9,6 +9,8 @@
 <img height="180px" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-L1ma&layout=compact&theme=dracula">
 </div>
 
+## Principais tecnologias
+
 <div>
 <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />    
 <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
