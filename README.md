@@ -4,9 +4,9 @@
           <li>Em busca de uma vaga como desenvolvedor Front-End
 </ul>
 
-<div style="display: flex; justify-items:start">
-<img height= "180px" width="100%" src="https://github-readme-stats.vercel.app/api?username=v-L1ma&show_icons=true&theme=dracula">
-<img height="180px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-L1ma&layout=compact&theme=dracula">
+<div>
+<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=v-L1ma&show_icons=true&theme=dracula">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-L1ma&layout=compact&theme=dracula">
 </div>
 
 ## Principais tecnologias
