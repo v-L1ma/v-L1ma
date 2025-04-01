@@ -7,7 +7,10 @@
 ## Principais tecnologias
 
 <div>
-<img height="40"  src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,nodejs,express,mongodb,mysql"/> 
+<img height="40"  src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css"/> 
+</div>
+<div>
+<img height="40"  src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/> 
 </div>
 
 ## Estatisticas
