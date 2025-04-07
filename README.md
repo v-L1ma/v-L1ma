@@ -1,4 +1,7 @@
-## Prazer, eu sou o Vinicius 👋
+## 👋 Prazer! Eu sou o Vinicius.
+### Frontend Developer | Typescript | Angular | React 
+
+---
 <ul>
           <li>Estudante de Analise e desenvolvimento de sistemas (3ºSemestre)
           <li>Em busca de uma vaga como desenvolvedor Front-End
@@ -7,10 +10,10 @@
 ## Principais tecnologias
 
 <div>
-<img height="40"  src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css"/> 
+<img height="40"  src="https://skillicons.dev/icons?i=angular,react,ts,js,tailwind,html,css"/> 
 </div>
 <div>
-<img height="40"  src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/> 
+<img height="40"  src="https://skillicons.dev/icons?i=java,nodejs,express,mongodb,mysql"/> 
 </div>
 
 ## Estatisticas
