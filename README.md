@@ -36,7 +36,7 @@
 
 <p align="left">
   <a href="mailto:viniciuslima957@hotmail.com" target="_blank">
-     <img height="40"  src="https://skillicons.dev/icons?i=email" alt="Email para contato"/>
+     <img height="40"  src="https://skillicons.dev/icons?i=gmail" alt="Email para contato"/>
   </a>
          
   <a href="https://www.linkedin.com/in/vinilimadev" target="_blank">
