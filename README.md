@@ -7,7 +7,9 @@
 ## 🚀 Sobre mim
 
 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** na **FATEC**  
+
 🔍 Focado em **desenvolvimento front-end**, criação de interfaces agradaveis, integrações com APIs e boas práticas de projeto
+
 📚 Aprofundando em Angular, Java e Spring Boot.
 
 ---
@@ -35,11 +37,11 @@
 ## 📬 Como me encontrar
 
 <p align="left">
-  <a href="mailto:viniciuslima957@hotmail.com" target="_blank">
+  <a href="mailto:viniciuslima957@hotmail.com">
      <img height="40"  src="https://skillicons.dev/icons?i=gmail" alt="Email para contato"/>
   </a>
          
-  <a href="https://www.linkedin.com/in/vinilimadev" target="_blank">
+  <a href="https://www.linkedin.com/in/vinilimadev" >
      <img height="40"  src="https://skillicons.dev/icons?i=linkedin" alt="Perfil no linkedin"/>
   </a>
 </p>
