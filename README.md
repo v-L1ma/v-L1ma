@@ -17,10 +17,12 @@
 ## 💻 Tecnologias que utilizo
 
 <div>
+<p>Front-end:</p>
 <img height="40"  src="https://skillicons.dev/icons?i=angular,react,ts,js,sass,tailwind,html,css"/> 
 </div>
 <div>
-<img height="40"  src="https://skillicons.dev/icons?i=java,nodejs,express,mongodb,mysql"/> 
+<p>Back-end:</p>
+<img height="40"  src="https://skillicons.dev/icons?i=spring,java,nodejs,express,mongodb,mysql"/> 
 </div>
 
 ---
