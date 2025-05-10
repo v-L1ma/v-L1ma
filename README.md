@@ -10,7 +10,7 @@
 
 🔍 Focado em **desenvolvimento front-end**, criação de interfaces agradaveis, integrações com APIs e boas práticas de projeto
 
-📚 Aprofundando em Angular, Java e Spring Boot.
+📚 Aprofundando em Angular, C# e ASP.NET.
 
 ---
 
@@ -22,7 +22,7 @@
 </div>
 <div>
 <p>Back-end:</p>
-<img height="40"  src="https://skillicons.dev/icons?i=spring,java,nodejs,express,mongodb,mysql"/> 
+<img height="40"  src="https://skillicons.dev/icons?i=dotnet,cs,spring,java,mongodb,mysql"/> 
 </div>
 
 ---
