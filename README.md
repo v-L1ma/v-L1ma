@@ -1,6 +1,6 @@
 <h1 align="center">👋 Prazer! Eu sou o Vinicius.</h1>
 
-<h2 align="center"> Frontend Developer | Typescript | Angular | React </h2>
+<h2 align="center"> Full-Stack Developer | Angular | .Net </h2>
 
 ---
 
@@ -29,8 +29,7 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=v-L1ma&show_icons=true&theme=dark">
+<div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-L1ma&layout=compact&theme=dark">
 </div>
 
