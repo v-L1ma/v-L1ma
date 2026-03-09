@@ -1,16 +1,18 @@
 <h1 align="center">👋 Prazer! Eu sou o Vinicius.</h1>
 
-<h2 align="center"> Full-Stack Developer | Angular | .Net </h2>
+<h2 align="center"> Full-Stack Developer | Angular | React | .Net </h2>
 
 ---
 
 ## 🚀 Sobre mim
 
+🏦 Tenho experiencia profissional como desenvolvedor full-stack, atuando com .NET e Angular/React, Azure, CQRS Pattern, SQL Server
+
 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** na **FATEC**  
 
 🔍 Focado em **desenvolvimento front-end**, criação de interfaces agradaveis, integrações com APIs e boas práticas de projeto
 
-📚 Aprofundando em Angular, C# e ASP.NET.
+📚 Aprofundando meus conhecimentos em Kubernetes e Cloud.
 
 ---
 
@@ -22,15 +24,7 @@
 </div>
 <div>
 <p>Back-end:</p>
-<img height="40"  src="https://skillicons.dev/icons?i=dotnet,cs,spring,java,mongodb,mysql"/> 
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-L1ma&layout=compact&theme=dark">
+<img height="40"  src="https://skillicons.dev/icons?i=dotnet,cs,spring,java,mongodb,mysql,docker"/> 
 </div>
 
 ---
