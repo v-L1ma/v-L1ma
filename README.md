@@ -6,11 +6,12 @@
 
 ## 🚀 Sobre mim
 
-🏦 Tenho experiencia profissional como desenvolvedor full-stack, atuando com .NET e Angular/React, Azure, CQRS Pattern, SQL Server
+🏦 Tenho experiencia profissional como desenvolvedor full-stack, atuando com .NET(C#) e Angular/React, Azure, CQRS Pattern, SQL Server. Alem de experiencia em side-projects com Java, Node
 
 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** na **FATEC**  
 
-🔍 Focado em **desenvolvimento front-end**, criação de interfaces agradaveis, integrações com APIs e boas práticas de projeto
+🔍 Focado em **Engenharia de software**, possuo experiencia tanto com **desenvolvimento front-end** criação de interfaces agradaveis, integrações com APIs e boas práticas de projeto quanto
+com **desenvolvimento back-end**, criando APIs robustas seguindo boas praticas de arquitetura em camadas, principios SOLID, aplicacao de design patterns como CQRS, Facade, Strategy, Singleton
 
 📚 Aprofundando meus conhecimentos em Kubernetes e Cloud.
 
